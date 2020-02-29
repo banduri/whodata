@@ -327,3 +327,28 @@
 { "loc":"Sweden", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-19 00:00:00"}
 { "loc":"United Arab Emirates", "cumultative_confirmed_cases":9, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-19 00:00:00"}
 { "loc":"Egypt", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-19 00:00:00"}
+{ "loc":"Singapore", "cumultative_confirmed_cases":77, "daily_confirmed_cases":2, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Japan", "cumultative_confirmed_cases":65, "daily_confirmed_cases":6, "cumultative_deaths":1, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Republic of Korea", "cumultative_confirmed_cases":31, "daily_confirmed_cases":1, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Malaysia", "cumultative_confirmed_cases":22, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Viet Nam", "cumultative_confirmed_cases":16, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Australia", "cumultative_confirmed_cases":15, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Philippines", "cumultative_confirmed_cases":3, "daily_confirmed_cases":0, "cumultative_deaths":1, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Cambodia", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Thailand", "cumultative_confirmed_cases":35, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"India", "cumultative_confirmed_cases":3, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Nepal", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Sri Lanka", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"United States of America", "cumultative_confirmed_cases":15, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Canada", "cumultative_confirmed_cases":8, "daily_confirmed_cases":1, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Germany", "cumultative_confirmed_cases":16, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"France", "cumultative_confirmed_cases":12, "daily_confirmed_cases":0, "cumultative_deaths":1, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"The United Kingdom", "cumultative_confirmed_cases":9, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Italy", "cumultative_confirmed_cases":3, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Russian Federation", "cumultative_confirmed_cases":2, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Spain", "cumultative_confirmed_cases":2, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Belgium", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Finland", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Sweden", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"United Arab Emirates", "cumultative_confirmed_cases":9, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}
+{ "loc":"Egypt", "cumultative_confirmed_cases":1, "daily_confirmed_cases":0, "cumultative_deaths":0, "daily_deaths":0, "date":"2020-02-18 00:00:00"}

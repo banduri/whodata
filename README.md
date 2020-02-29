@@ -26,14 +26,25 @@ about data
 without_china.ndjson provides the cleaned data from the reports. without_china_enrich.ndjson enriches the data with some precalculations done by enrich_data.py. enrich_data.py can only deal with json-data conversion is needed
 
 **loc**: Location (string / label)
+
 **cumultative_confirmed_cases**: all cases (not active infections) reported to the WHO. (includes daily change and all cases that resulted in death) (integer)
+
 **daily_confirmed_cases**: change from the prev. day - new cases (integer)
+
 **cumultative_deaths**: all reported deaths of cases (includes daily change) (integer)
+
 **daily_deaths**: change from the prev. day (integer)
+
 **data**: date of the report. (format: yyyy-MM-dd 00:00:00) 
+
 **active_confirmed_infections**: active infections; cases without those cases that resulted in death (integer)
+
 **rate_cases**: daily_confirmed_cases / cumultative_confirmed_cases (float 0 <= x <= 1)
+
 **change_rate_cases**: changes from the prev report. daily_confirmed_cases / (cumultative_confirmed_cases - daily_confirmed_cases ) (float x>0)
+
 **change_rate_deaths**: changes from the prev report. daily_deaths / ( cumultative_deaths - daily_deaths ) (float range x>0)
+
 **rate_mortality**: likelyhood of death (cumultative_deaths / cumultative_confirmed_cases) (float: 0 <= x <= 1)
+
 **rate_deaths**: daily_deaths / cumultative_deaths (float 0 <= x <= 1)

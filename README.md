@@ -41,9 +41,9 @@ without_china.ndjson provides the cleaned data from the reports. without_china_e
 
 **rate_cases**: daily_confirmed_cases / cumultative_confirmed_cases (float 0 <= x <= 1)
 
-**change_rate_cases**: changes from the prev report. daily_confirmed_cases / (cumultative_confirmed_cases - daily_confirmed_cases ) (float x>0)
+**change_rate_cases**: changes from the prev report. daily_confirmed_cases / (cumultative_confirmed_cases - daily_confirmed_cases ) (float x >= 0)
 
-**change_rate_deaths**: changes from the prev report. daily_deaths / ( cumultative_deaths - daily_deaths ) (float range x>0)
+**change_rate_deaths**: changes from the prev report. daily_deaths / ( cumultative_deaths - daily_deaths ) (float range x >= 0)
 
 **rate_mortality**: likelyhood of death (cumultative_deaths / cumultative_confirmed_cases) (float: 0 <= x <= 1)
 

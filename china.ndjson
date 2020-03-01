@@ -1,136 +1,136 @@
-{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":423, "daily_suspeced_cases":159, "daily_deaths":45, "cumultative_confirmed_cases":66337, "cumultative_deaths":2727, "date":"2020-02-29"}
-{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1349, "cumultative_deaths":7, "date":"2020-02-29"}
-{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":1272, "cumultative_deaths":21, "date":"2020-02-29"}
-{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":1, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1018, "cumultative_deaths":4, "date":"2020-02-29"}
-{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":990, "cumultative_deaths":6, "date":"2020-02-29"}
-{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":935, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-29"}
-{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspeced_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-29"}
-{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":538, "cumultative_deaths":3, "date":"2020-02-29"}
-{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-29"}
-{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":1, "daily_suspeced_cases":9, "daily_deaths":1, "cumultative_confirmed_cases":411, "cumultative_deaths":8, "date":"2020-02-29"}
-{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":0, "daily_suspeced_cases":28, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-29"}
-{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":318, "cumultative_deaths":6, "date":"2020-02-29"}
-{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-29"}
-{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspeced_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-29"}
-{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspeced_cases":5, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-29"}
-{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-29"}
-{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspeced_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":136, "cumultative_deaths":3, "date":"2020-02-29"}
-{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspeced_cases":15, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":94, "cumultative_deaths":2, "date":"2020-02-29"}
-{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspeced_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-29"}
-{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":3, "date":"2020-02-29"}
-{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":73, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":7, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":39, "cumultative_deaths":1, "date":"2020-02-29"}
-{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-29"}
-{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":318, "daily_suspeced_cases":332, "daily_deaths":41, "cumultative_confirmed_cases":65914, "cumultative_deaths":2682, "date":"2020-02-28"}
-{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":1, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":1348, "cumultative_deaths":7, "date":"2020-02-28"}
-{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1272, "cumultative_deaths":20, "date":"2020-02-28"}
-{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1017, "cumultative_deaths":4, "date":"2020-02-28"}
-{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":990, "cumultative_deaths":6, "date":"2020-02-28"}
-{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":935, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-28"}
-{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspeced_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-28"}
-{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":4, "daily_suspeced_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":538, "cumultative_deaths":3, "date":"2020-02-28"}
-{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-28"}
-{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":0, "daily_suspeced_cases":12, "daily_deaths":2, "cumultative_confirmed_cases":410, "cumultative_deaths":7, "date":"2020-02-28"}
-{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":0, "daily_suspeced_cases":36, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-28"}
-{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":318, "cumultative_deaths":6, "date":"2020-02-28"}
-{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-28"}
-{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspeced_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-28"}
-{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspeced_cases":5, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-28"}
-{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-28"}
-{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":1, "daily_suspeced_cases":24, "daily_deaths":0, "cumultative_confirmed_cases":136, "cumultative_deaths":3, "date":"2020-02-28"}
-{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspeced_cases":22, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspeced_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":2, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":2, "date":"2020-02-28"}
-{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-28"}
-{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":76, "cumultative_deaths":3, "date":"2020-02-28"}
-{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":72, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":2, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":34, "cumultative_deaths":1, "date":"2020-02-28"}
-{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-28"}
-{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":409, "daily_suspeced_cases":403, "daily_deaths":26, "cumultative_confirmed_cases":65596, "cumultative_deaths":2641, "date":"2020-02-27"}
-{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1347, "cumultative_deaths":7, "date":"2020-02-27"}
-{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":1, "daily_suspeced_cases":2, "daily_deaths":1, "cumultative_confirmed_cases":1272, "cumultative_deaths":20, "date":"2020-02-27"}
-{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1017, "cumultative_deaths":4, "date":"2020-02-27"}
-{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":989, "cumultative_deaths":6, "date":"2020-02-27"}
-{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":934, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-27"}
-{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspeced_cases":11, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-27"}
-{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":3, "daily_suspeced_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":534, "cumultative_deaths":3, "date":"2020-02-27"}
-{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-27"}
-{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":10, "daily_suspeced_cases":10, "daily_deaths":1, "cumultative_confirmed_cases":410, "cumultative_deaths":5, "date":"2020-02-27"}
-{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":1, "daily_suspeced_cases":33, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-27"}
-{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":5, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":317, "cumultative_deaths":6, "date":"2020-02-27"}
-{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":2, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspeced_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspeced_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-27"}
-{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspeced_cases":20, "daily_deaths":0, "cumultative_confirmed_cases":135, "cumultative_deaths":3, "date":"2020-02-27"}
-{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspeced_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":6, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":2, "date":"2020-02-27"}
-{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":72, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":32, "cumultative_deaths":1, "date":"2020-02-27"}
-{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-27"}
-{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":401, "daily_suspeced_cases":311, "daily_deaths":52, "cumultative_confirmed_cases":65187, "cumultative_deaths":2615, "date":"2020-02-26"}
-{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1347, "cumultative_deaths":7, "date":"2020-02-26"}
-{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1271, "cumultative_deaths":19, "date":"2020-02-26"}
-{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1016, "cumultative_deaths":4, "date":"2020-02-26"}
-{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":989, "cumultative_deaths":6, "date":"2020-02-26"}
-{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":934, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":1, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-26"}
-{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspeced_cases":9, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-26"}
-{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":2, "daily_suspeced_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":531, "cumultative_deaths":3, "date":"2020-02-26"}
-{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":12, "date":"2020-02-26"}
-{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":0, "daily_suspeced_cases":21, "daily_deaths":0, "cumultative_confirmed_cases":400, "cumultative_deaths":4, "date":"2020-02-26"}
-{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":1, "daily_suspeced_cases":46, "daily_deaths":0, "cumultative_confirmed_cases":336, "cumultative_deaths":3, "date":"2020-02-26"}
-{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":1, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":312, "cumultative_deaths":6, "date":"2020-02-26"}
-{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":294, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspeced_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspeced_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-26"}
-{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspeced_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":135, "cumultative_deaths":3, "date":"2020-02-26"}
-{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspeced_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspeced_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":4, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":85, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":2, "date":"2020-02-26"}
-{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":0, "daily_suspeced_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":71, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":2, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":32, "cumultative_deaths":1, "date":"2020-02-26"}
-{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-26"}
-{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspeced_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":423, "daily_suspected_cases":159, "daily_deaths":45, "cumultative_confirmed_cases":66337, "cumultative_deaths":2727, "date":"2020-02-29"}
+{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1349, "cumultative_deaths":7, "date":"2020-02-29"}
+{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":1272, "cumultative_deaths":21, "date":"2020-02-29"}
+{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":1, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1018, "cumultative_deaths":4, "date":"2020-02-29"}
+{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":990, "cumultative_deaths":6, "date":"2020-02-29"}
+{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":935, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-29"}
+{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspected_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-29"}
+{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":538, "cumultative_deaths":3, "date":"2020-02-29"}
+{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-29"}
+{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":1, "daily_suspected_cases":9, "daily_deaths":1, "cumultative_confirmed_cases":411, "cumultative_deaths":8, "date":"2020-02-29"}
+{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":0, "daily_suspected_cases":28, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-29"}
+{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":318, "cumultative_deaths":6, "date":"2020-02-29"}
+{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-29"}
+{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspected_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-29"}
+{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspected_cases":5, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-29"}
+{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-29"}
+{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspected_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":136, "cumultative_deaths":3, "date":"2020-02-29"}
+{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspected_cases":15, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":94, "cumultative_deaths":2, "date":"2020-02-29"}
+{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspected_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-29"}
+{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":3, "date":"2020-02-29"}
+{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":73, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":7, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":39, "cumultative_deaths":1, "date":"2020-02-29"}
+{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-29"}
+{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":318, "daily_suspected_cases":332, "daily_deaths":41, "cumultative_confirmed_cases":65914, "cumultative_deaths":2682, "date":"2020-02-28"}
+{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":1, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":1348, "cumultative_deaths":7, "date":"2020-02-28"}
+{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1272, "cumultative_deaths":20, "date":"2020-02-28"}
+{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1017, "cumultative_deaths":4, "date":"2020-02-28"}
+{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":990, "cumultative_deaths":6, "date":"2020-02-28"}
+{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":935, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-28"}
+{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspected_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-28"}
+{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":4, "daily_suspected_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":538, "cumultative_deaths":3, "date":"2020-02-28"}
+{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-28"}
+{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":0, "daily_suspected_cases":12, "daily_deaths":2, "cumultative_confirmed_cases":410, "cumultative_deaths":7, "date":"2020-02-28"}
+{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":0, "daily_suspected_cases":36, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-28"}
+{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":318, "cumultative_deaths":6, "date":"2020-02-28"}
+{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-28"}
+{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspected_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-28"}
+{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspected_cases":5, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-28"}
+{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-28"}
+{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":1, "daily_suspected_cases":24, "daily_deaths":0, "cumultative_confirmed_cases":136, "cumultative_deaths":3, "date":"2020-02-28"}
+{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspected_cases":22, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspected_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":2, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":2, "date":"2020-02-28"}
+{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-28"}
+{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":76, "cumultative_deaths":3, "date":"2020-02-28"}
+{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":72, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":2, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":34, "cumultative_deaths":1, "date":"2020-02-28"}
+{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-28"}
+{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":409, "daily_suspected_cases":403, "daily_deaths":26, "cumultative_confirmed_cases":65596, "cumultative_deaths":2641, "date":"2020-02-27"}
+{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1347, "cumultative_deaths":7, "date":"2020-02-27"}
+{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":1, "daily_suspected_cases":2, "daily_deaths":1, "cumultative_confirmed_cases":1272, "cumultative_deaths":20, "date":"2020-02-27"}
+{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1017, "cumultative_deaths":4, "date":"2020-02-27"}
+{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":989, "cumultative_deaths":6, "date":"2020-02-27"}
+{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":934, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-27"}
+{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspected_cases":11, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-27"}
+{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":3, "daily_suspected_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":534, "cumultative_deaths":3, "date":"2020-02-27"}
+{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":1, "cumultative_confirmed_cases":480, "cumultative_deaths":13, "date":"2020-02-27"}
+{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":10, "daily_suspected_cases":10, "daily_deaths":1, "cumultative_confirmed_cases":410, "cumultative_deaths":5, "date":"2020-02-27"}
+{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":1, "daily_suspected_cases":33, "daily_deaths":0, "cumultative_confirmed_cases":337, "cumultative_deaths":3, "date":"2020-02-27"}
+{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":5, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":317, "cumultative_deaths":6, "date":"2020-02-27"}
+{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":2, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":296, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspected_cases":3, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspected_cases":4, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-27"}
+{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspected_cases":20, "daily_deaths":0, "cumultative_confirmed_cases":135, "cumultative_deaths":3, "date":"2020-02-27"}
+{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspected_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":6, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":2, "date":"2020-02-27"}
+{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":72, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":32, "cumultative_deaths":1, "date":"2020-02-27"}
+{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-27"}
+{ "loc":"Hubei", "pop10000":5917, "daily_confirmed_cases":401, "daily_suspected_cases":311, "daily_deaths":52, "cumultative_confirmed_cases":65187, "cumultative_deaths":2615, "date":"2020-02-26"}
+{ "loc":"Guangdong", "pop10000":11346, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1347, "cumultative_deaths":7, "date":"2020-02-26"}
+{ "loc":"Henan", "pop10000":9605, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1271, "cumultative_deaths":19, "date":"2020-02-26"}
+{ "loc":"Zhejiang", "pop10000":5737, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":1205, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Hunan", "pop10000":6899, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":1016, "cumultative_deaths":4, "date":"2020-02-26"}
+{ "loc":"Anhui", "pop10000":6324, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":989, "cumultative_deaths":6, "date":"2020-02-26"}
+{ "loc":"Jiangxi", "pop10000":4648, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":934, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Shandong", "pop10000":10047, "daily_confirmed_cases":1, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":756, "cumultative_deaths":6, "date":"2020-02-26"}
+{ "loc":"Jiangsu", "pop10000":8051, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":631, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Chongging", "pop10000":3102, "daily_confirmed_cases":0, "daily_suspected_cases":9, "daily_deaths":0, "cumultative_confirmed_cases":576, "cumultative_deaths":6, "date":"2020-02-26"}
+{ "loc":"Sichuan", "pop10000":8341, "daily_confirmed_cases":2, "daily_suspected_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":531, "cumultative_deaths":3, "date":"2020-02-26"}
+{ "loc":"Heilongjiang", "pop10000":3773, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":480, "cumultative_deaths":12, "date":"2020-02-26"}
+{ "loc":"Beijing", "pop10000":2154, "daily_confirmed_cases":0, "daily_suspected_cases":21, "daily_deaths":0, "cumultative_confirmed_cases":400, "cumultative_deaths":4, "date":"2020-02-26"}
+{ "loc":"Shanghai", "pop10000":2424, "daily_confirmed_cases":1, "daily_suspected_cases":46, "daily_deaths":0, "cumultative_confirmed_cases":336, "cumultative_deaths":3, "date":"2020-02-26"}
+{ "loc":"Hebei", "pop10000":7556, "daily_confirmed_cases":1, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":312, "cumultative_deaths":6, "date":"2020-02-26"}
+{ "loc":"Fujian", "pop10000":3941, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":294, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Guangxi", "pop10000":4926, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":252, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Shaanxi", "pop10000":3864, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":245, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Yunnan", "pop10000":4830, "daily_confirmed_cases":0, "daily_suspected_cases":7, "daily_deaths":0, "cumultative_confirmed_cases":174, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Hainan", "pop10000":934, "daily_confirmed_cases":0, "daily_suspected_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":168, "cumultative_deaths":5, "date":"2020-02-26"}
+{ "loc":"Guizhou", "pop10000":3600, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":146, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Tianjin", "pop10000":1560, "daily_confirmed_cases":0, "daily_suspected_cases":14, "daily_deaths":0, "cumultative_confirmed_cases":135, "cumultative_deaths":3, "date":"2020-02-26"}
+{ "loc":"Shanxi", "pop10000":3718, "daily_confirmed_cases":0, "daily_suspected_cases":1, "daily_deaths":0, "cumultative_confirmed_cases":133, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Liaoning", "pop10000":4359, "daily_confirmed_cases":0, "daily_suspected_cases":6, "daily_deaths":0, "cumultative_confirmed_cases":121, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Jilin", "pop10000":2704, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":93, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Gansu", "pop10000":2637, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":91, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Hong Kong SAR", "pop10000":745, "daily_confirmed_cases":4, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":85, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Xinjiang", "pop10000":2487, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":76, "cumultative_deaths":2, "date":"2020-02-26"}
+{ "loc":"Inner Mongolia", "pop10000":2534, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":75, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Ningxia", "pop10000":688, "daily_confirmed_cases":0, "daily_suspected_cases":2, "daily_deaths":0, "cumultative_confirmed_cases":71, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Taipei and environs", "pop10000":2359, "daily_confirmed_cases":2, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":32, "cumultative_deaths":1, "date":"2020-02-26"}
+{ "loc":"Qinghai", "pop10000":603, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":18, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Macao SAR", "pop10000":66, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":10, "cumultative_deaths":0, "date":"2020-02-26"}
+{ "loc":"Xizang", "pop10000":344, "daily_confirmed_cases":0, "daily_suspected_cases":0, "daily_deaths":0, "cumultative_confirmed_cases":1, "cumultative_deaths":0, "date":"2020-02-26"}
